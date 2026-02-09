@@ -8,7 +8,9 @@ const STRIPE_KEY = ''; // Not configured yet
 
 // Launch App
 function launchApp() {
-    window.location.href = APP_URL;
+    function launchApp() {
+  alert("🚀 App launching very soon. Stay tuned!");
+}
 }
 
 // Start Free Trial
