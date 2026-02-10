@@ -1,5 +1,5 @@
 // Configuration
-const APP_URL = 'https://app.gatherai.in';
+const APP_URL = 'https://gatherai.in';
 const BACKEND_URL = 'https://app.gatherai.in/api';
 
 // Razorpay Test Key (will be switched to live key in production)
